@@ -63,7 +63,7 @@ Simple WhatsApp Bot
 
 Simple WhatsApp Multiple Session
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BOTCAHX/RT-X-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DamarHaxoer/RT-X-MD)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
